@@ -1,4 +1,4 @@
-This is the Privacy Policy for the Kamdroid application. 
+This is the Privacy Policy for the Kamdroid application (cz.rydvan.android.kamdroid)
 
 Author: Pavel Rydvan (devel@rydvan.cz)
 
